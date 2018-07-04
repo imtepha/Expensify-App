@@ -1,0 +1,5 @@
+@import './base/settings'; //setting needs to come first so that the header can the base can get the val that define in the settings
+@import './base/base';
+
+
+//when import leave the [_] and the extension file name
